@@ -1,1 +1,8 @@
-
+I developed a Next Word Predictor using Natural Language Processing (NLP) techniques, leveraging a
+Sequential neural network architecture with an LSTM (Long Short-Term Memory) layer to effectively
+capture contextual word dependencies in text. The model utilizes word embeddings to convert textual input
+into dense vector representations that preserve semantic meaning. It is trained using the Adam optimizer,
+which helps in faster convergence and efficient gradient-based optimization. The system learns from input
+sequences and predicts the most probable next word, making it useful for applications such as auto-
+completion and smart text suggestion. This project demonstrates the practical implementation of deep
+learning in NLP, focusing on language modeling and sequence prediction.
